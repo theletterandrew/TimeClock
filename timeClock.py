@@ -41,6 +41,9 @@ def main():
             print("Goodbye!")
             break
 
+        else:
+            print("Sorry, I don't know what you said!")
+
 
 if __name__ == '__main__':
     main()
